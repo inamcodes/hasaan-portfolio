@@ -1,4 +1,4 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/inamcodes/simplefolio?color=blue)](https://github.com/cobiwave/hasaan-portfolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/inamcodes/hasaan-portfolio) ![GitHub forks](https://img.shields.io/github/forks/inamcodes/hasaan-portfolio)
+# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/inamcodes/simplefolio?color=blue)](https://github.com/inamcodes/hasaan-portfolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/inamcodes/hasaan-portfolio) ![GitHub forks](https://img.shields.io/github/forks/inamcodes/hasaan-portfolio)
 
 ## A minimal portfolio template for Developers!
 
